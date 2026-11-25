@@ -1,34 +1,63 @@
-# Hey, I'm Raza 👋
 
-### Computer Engineering Student | Aspiring Software Engineer
+<h1 align="center">Hey, I'm Raza 👋</h1>
 
-I'm a first-year Computer Engineering student passionate about
-building useful software, understanding how systems work, and
-exploring the world of cybersecurity and AI.
+<h3 align="center">
+  Computer Engineering Student | Aspiring Software Engineer
+</h3>
 
-Currently learning, experimenting, and building projects
-one step at a time.
+<p align="center">
+  Building software. Exploring systems. Learning something new every day.
+</p>
 
-## What I'm Exploring
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-- Software Development
-- Data Structures & Algorithms
-- Cybersecurity & Computer Networks
-- Artificial Intelligence & Machine Learning
+---
 
-## Tech Stack
+### 👨‍💻 About Me
 
-- Languages: C++, Python
-- Tools: Git, GitHub, VS Code
-- Currently learning: Data Structures & Algorithms
+I'm a first-year Computer Engineering student passionate
+about software development, cybersecurity, and artificial
+intelligence.
 
-## Featured Projects
+I enjoy understanding how technology works under the hood
+and turning what I learn into practical projects.
 
-Coming soon — building things that solve real problems.
+- 🎓 Studying Computer Engineering
+- 💻 Learning C++ and Python
+- 🔐 Exploring cybersecurity and computer networks
+- 🤖 Interested in AI and machine learning
+- 🚀 Building projects and improving my problem-solving skills
 
-## Beyond the Code
+### 🛠️ Tech Stack
 
-I enjoy learning new technologies, solving problems,
-and exploring how software works behind the scenes.
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
+</p>
 
-Let's connect and build something interesting!!!!!
+### 📌 Current Focus
+
+- Strengthening my programming fundamentals
+- Learning Data Structures and Algorithms
+- Building practical software projects
+- Exploring how computer systems and networks work
+
+### 📂 Featured Projects
+
+Coming soon — building projects that solve real problems.
+
+### 🤝 Let's Connect
+
+I'm always interested in learning from other developers,
+collaborating on projects, and connecting with people
+who share a passion for technology.
+
+<p align="center">
+  <i>Curious about systems. Driven to build.</i>
+</p>
